@@ -6,3 +6,5 @@ glaçon
 
 cendre
 
+feu et à cendre
+retarder
